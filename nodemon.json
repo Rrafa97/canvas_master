@@ -1,0 +1,4 @@
+{
+    "ext": "html,js,css",
+    "exec": "npx http-server"
+}
